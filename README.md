@@ -1,3 +1,3 @@
 👋 Hello! 
 
-I’m Panagiota, a Data Scientist and Machine Learning engineer. 
+I’m Panagiota, a Data Scientist and Machine Learning Instructor. 
